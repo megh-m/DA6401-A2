@@ -1,5 +1,7 @@
 # DA6401-A2
 
+Note: The notebook has been updated gradually as the code developed, the scripts have been generated from the notebook directly
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
